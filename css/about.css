@@ -11,8 +11,14 @@
 .container {background-color: #efe2c2}
 .card {background-color: #efe2c2}
 .card-text-center {background-color: #efe2c2}
-.btn111 {margin-top: 25px}
+.btn111 {margin-top: 25px; color: }
 .custom-progres-bar-green {background-color: #23a512}
-.jumbotron {background-image: url(/img/wheat.jpg); background-size: cover; height: 100%;}
+.wheatjumbo {background-image: url(../img/wheat.jpg); background-size: cover; height: 500px}
 .jag {padding-left: 0px;}
 .jag1 {padding-right: 0px;}
+.fatface {font-family: 'Abril Fatface', cursive;}
+.cinzel {font-family: 'Cinzel', serif;}
+.libre {font-family: 'Libre Baskerville', serif;}
+.crimson {font-family: 'Crimson Text', serif;}
+body {max-width: 100%}
+.display-1 {margin-top: 85px;}
