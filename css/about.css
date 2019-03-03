@@ -11,7 +11,7 @@
 .container {background-color: #efe2c2}
 .card {background-color: #efe2c2}
 .card-text-center {background-color: #efe2c2}
-.btn111 {margin-top: 25px; color: }
+.btn111 {margin-top: 25px; background-color: #23a512}
 .custom-progres-bar-green {background-color: #23a512}
 .wheatjumbo {background-image: url(../img/wheat.jpg); background-size: cover; height: 500px}
 .jag {padding-left: 0px;}
@@ -21,4 +21,4 @@
 .libre {font-family: 'Libre Baskerville', serif;}
 .crimson {font-family: 'Crimson Text', serif;}
 body {max-width: 100%}
-.display-1 {margin-top: 85px;}
+.display-1 {margin-top: 85px; color: #23a512;}
